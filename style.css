@@ -2,11 +2,24 @@ body {
     background-color: #f2ca81e0;
     text-align: center;
 }
+
 .navbar {
     background-color: #EAAA00;
     border-radius: 30px;
     margin: 20px 30px;
     padding: 10px 20px;
+}
+
+.info {
+    font-family: "roboto-slab", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.about-box {
+    font-family: "roboto-slab", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 /*accordion*/
 .accordion-item {
@@ -31,6 +44,7 @@ body {
 .degree {
     background-color: #EAAA00;
 }
+
 /* Our Colleges*/
 .our-colleges {
     text-align: center;
@@ -49,6 +63,7 @@ body {
     max-width: 700px;
     margin: auto;
 }
+
 .college-button {
     background-color: #B39051;
     color: black;
@@ -63,6 +78,7 @@ li {
     font-weight: 400;
     font-style: normal;
 }
+
 .college-button:hover {
     background-color: #8F713D;
 }
@@ -81,15 +97,17 @@ footer {
     text-align: right;
     padding: 20px;
 }
+
 /*apply page*/
 .apply-card {
-            background-color: #12467d;
-            border-radius: 12px;
-            min-height: 150px;
-            padding: 15px;
-            margin-bottom: 20px;
-            color: white;
-        }
+    background-color: #12467d;
+    border-radius: 12px;
+    min-height: 150px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: white;
+}
+
 .application-link {
     display: flex;
     justify-content: space-between;
@@ -99,6 +117,7 @@ footer {
     color: white;
     text-decoration: none;
 }
+
     .application-link:last-child {
     border-bottom: none;
 }
@@ -120,6 +139,7 @@ footer {
     color: white;
     text-decoration: none;
 }
+
 .apply {
     font-family: "adelle", serif;
     font-weight: 400;
