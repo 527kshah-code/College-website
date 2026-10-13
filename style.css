@@ -143,6 +143,7 @@ li {
 
 .footer-contact p {
     margin-bottom: 6px;
+    text-align: right;
 }
 
 .footer-links {
@@ -165,6 +166,7 @@ li {
 .footer-copyright {
     font-size: 0.85rem;
     margin: 15px 0 0;
+    text-align: center;
 }
 
 /* Mobile layout */
